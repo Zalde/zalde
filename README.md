@@ -44,5 +44,4 @@ My name is Adrián Elizalde and I am a DevOps Engineer / Cloud Architect from Bu
 ---
 
 ### Github stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zalde&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Adrián+Elizalde's+GitHub+Stats&show_icons=true" />
+![Zalde's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalde&count_private=true&show_icons=true)
