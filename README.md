@@ -70,9 +70,9 @@ I’m passionate about building reliable platforms, automating everything I can,
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zalde&show_icons=true&title_color=326CE5&icon_color=326CE5&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&count_private=true" alt="Zalde's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalde&theme=tokyonight&ring=326CE5&fire=326CE5&currStreakNum=326CE5&sideNums=326CE5&currStreakLabel=326CE5&sideLabels=326CE5&dates=a9b1d6&hide_border=true" alt="Zalde's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalde&layout=compact&title_color=326CE5&icon_color=326CE5&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Zalde's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zalde&theme=tokyonight&title_color=326CE5" alt="Zalde's Profile Details" />
 </p>
