@@ -70,4 +70,14 @@ I’m passionate about building reliable platforms, automating everything I can,
 ### 📊 Github stats
 
 # ![Zalde's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalde&count_private=true&show_icons=true&theme=tokyonight)
-[![Zalde's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalde&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# [![Zalde's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalde&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=zalde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zalde's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=zalde&layout=compact&theme=tokyonight&hide_border=true" alt="Zalde's Top Languages" />
+</p>
