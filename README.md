@@ -67,15 +67,6 @@ I’m passionate about building reliable platforms, automating everything I can,
 
 ---
 
-### 📊 Github stats
-
-# ![Zalde's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalde&count_private=true&show_icons=true&theme=tokyonight)
-# [![Zalde's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalde&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
----
-
 ### 📊 GitHub Activity
 
 <p align="center">
