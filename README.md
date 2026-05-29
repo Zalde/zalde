@@ -75,7 +75,7 @@ I’m passionate about building reliable platforms, automating everything I can,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalde&theme=tokyonight" alt="Zalde's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zalde&theme=tokyonight" alt="Zalde's GitHub Streak" />
 </p>
 
 <p align="center">
