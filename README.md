@@ -19,6 +19,7 @@ I’m passionate about building reliable platforms, automating everything I can,
 <p>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=for-the-badge" />
 </p>
 
 #### 🔄 CI/CD & Automation
@@ -61,7 +62,7 @@ I’m passionate about building reliable platforms, automating everything I can,
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://twitter.com/JustZalde">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+    <img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
@@ -70,7 +71,11 @@ I’m passionate about building reliable platforms, automating everything I can,
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zalde&theme=tokyonight&title_color=326CE5" alt="Zalde's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zalde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Zalde's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalde&theme=tokyonight" alt="Zalde's GitHub Streak" />
 </p>
 
 <p align="center">
