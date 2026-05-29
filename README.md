@@ -71,7 +71,7 @@ I’m passionate about building reliable platforms, automating everything I can,
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zalde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Zalde's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalde&theme=tokyonight" alt="Zalde's GitHub Stats" />
 </p>
 
 <p align="center">
