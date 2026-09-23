@@ -37,6 +37,12 @@ I’m passionate about building reliable platforms, automating everything I can,
   <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white&style=for-the-badge"/>
 </p>
 
+#### 🔒 Security
+<p>
+  <img alt="Trivy" src="https://img.shields.io/badge/Trivy-1904DA?logo=aquasecurity&logoColor=white&style=for-the-badge" />
+  <img alt="Snyk" src="https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white&style=for-the-badge" />
+</p>
+
 #### 🐧 Scripting & Web Servers
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
