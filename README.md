@@ -74,6 +74,11 @@ I’m passionate about building reliable platforms, automating everything I can,
 
 ---
 
+### 📝 Note on activity
+Most of my day-to-day contributions happen in private repositories. Public activity here doesn't reflect my full work.
+
+---
+
 ### 📊 GitHub Activity
 
 <p align="center">
