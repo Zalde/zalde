@@ -67,7 +67,7 @@ I’m passionate about building reliable platforms, automating everything I can,
   <a href="https://www.instagram.com/adrian.zalde/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/JustZalde">
+  <a href="https://x.com/JustZalde">
     <img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" />
   </a>
 </p>
