@@ -10,6 +10,7 @@ I’m passionate about building reliable platforms, automating everything I can,
 
 #### ☁️ Cloud & Infrastructure as Code
 <p>
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
@@ -55,9 +56,9 @@ I’m passionate about building reliable platforms, automating everything I can,
 ---
 
 ### 🔭 Currently working on:
-- Optimizing **CI/CD pipelines** with **Azure DevOps** and **self-hosted agents**.
-- Automating **large-scale deployments** across distributed environments.
-- Helping teams adopt **Infrastructure as Code** with **Terraform** and **Ansible**.
+- Building and scaling **cloud infrastructure** on **AWS** and **Azure** with **Terraform**.
+- Developing **AI-assisted DevOps workflows** with **Claude Code** and GitHub Actions.
+- Hardening **CI/CD pipelines** and supply chain security with **GitHub** and container scanning.
 
 ---
 
@@ -82,13 +83,9 @@ Most of my day-to-day contributions happen in private repositories. Public activ
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalde&theme=tokyonight" alt="Zalde's GitHub Stats" />
+  <img src="assets/metrics.stats.svg" alt="Zalde's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zalde&theme=tokyonight" alt="Zalde's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zalde&theme=tokyonight&title_color=326CE5" alt="Zalde's Languages" />
+  <img src="assets/metrics.languages.svg" alt="Zalde's Languages" />
 </p>
